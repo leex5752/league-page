@@ -7,10 +7,11 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
+<div style="text-align:center; max-width:680px; margin:0 auto;">
   <p>Welcome to the Fantasy League</p>
   <p>Friends and Family</p>
   <p>Don't be mean</p>
-  
+</div>
 `;
 
 /*   STEP 3   */
