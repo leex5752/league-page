@@ -46,7 +46,6 @@ export const managers = [
     },
     {
       "managerID": "1262710121897668608",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "kkjlee",
       "tookOver": "2025", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "KOREA", // (optional)
       "bio": "Started from the bottom now I'm here",
@@ -89,7 +88,6 @@ export const managers = [
     },
     {
       "managerID": "1133988495892180992",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "BMoney",
       "tookOver": "2024", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "GA", // (optional)
       "bio": "YO",
@@ -174,7 +172,6 @@ export const managers = [
     },
     {
       "managerID": "1131053197591838720",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "osdoc",
       "tookOver": "2024", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "DC", // (optional)
       "bio": "Hello",
