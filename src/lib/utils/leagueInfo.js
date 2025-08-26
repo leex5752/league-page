@@ -67,7 +67,7 @@ export const managers = [
     },
     {
       "managerID": "1000936187311267840",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Broke Dak Mountain",
+      "name": "Tron",
       "location": "IL", // (optional)
       "bio": "Chicago boy",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -88,7 +88,7 @@ export const managers = [
     },
     {
       "managerID": "1133988495892180992",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "BD",
+      "name": "Bmoney",
       "location": "GA", // (optional)
       "bio": "YO",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -109,7 +109,7 @@ export const managers = [
     },
     {
       "managerID": "1000931126237536256",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "Kpop Travis Hunter",
+      "name": "EdibleDino",
       "location": "LA", // (optional)
       "bio": "Yo",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -130,7 +130,7 @@ export const managers = [
     },
     {
       "managerID": "734866033487298560",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "Lil's Team",
+      "name": "Hangryy",
       "location": "MA", // (optional)
       "bio": "Howdy",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -151,7 +151,7 @@ export const managers = [
     },
     {
       "managerID": "861798950963908608",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "Mad Dogs",
+      "name": "stressjr",
       "location": "MA & CA", // (optional)
       "bio": "Molly's Dad",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -172,7 +172,7 @@ export const managers = [
     },
     {
       "managerID": "1131053197591838720",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "Osdoc",
+      "name": "osdoc",
       "location": "DC", // (optional)
       "bio": "Hello",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -193,7 +193,7 @@ export const managers = [
     },
     {
       "managerID": "1116233445342052352",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "Best of Burden",
+      "name": "kattebjorn",
       "location": "IL", // (optional)
       "bio": "Hi",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -214,7 +214,7 @@ export const managers = [
     },
     {
       "managerID": "1131060783305101312",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "Ja'marro Never Dies",
+      "name": "dpn",
       "location": "MA", // (optional)
       "bio": "Nala's Dad",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -235,6 +235,7 @@ export const managers = [
     },
     {
       "managerID": "1000500061169688576",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "name": "FraudChart",
       "location": "CT", // (optional)
       "bio": "Nah",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -255,7 +256,7 @@ export const managers = [
     },
     {
       "managerID": "865272891120406528",  // ID of the roster that the manager manages (look at the order of the power rankings graph
-      "name": "repeaters",
+      "name": "cgill",
       "location": "DC", // (optional)
       "bio": "Pippin's Dad",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
