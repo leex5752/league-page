@@ -103,7 +103,8 @@
         {#each managerIDs as managerID, ix}
             <Bar {leagueTeamManagers} {managerID} rosterID={rosterIDs[ix]} {xMin} {xMax} stat={stats[ix]} secondStat={secondStats[ix]} {year} label={labels.stat} color={colors[ix % colors.length]} />
         {/each}
-    	</div>
+	</div>
+	<div>
 	</div>
 </div>
 {#if graphs.length > 1}
