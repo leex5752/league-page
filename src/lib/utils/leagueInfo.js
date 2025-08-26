@@ -25,6 +25,7 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "managerID": "1131049579392335872",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Twin It to Win It",
       "location": "MA & CA", // (optional)
       "bio": "Twins doing twins stuff",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -66,6 +67,7 @@ export const managers = [
     },
     {
       "managerID": "1000936187311267840",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "name": "Broke Dak Mountain",
       "location": "IL", // (optional)
       "bio": "Chicago boy",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -107,6 +109,7 @@ export const managers = [
     },
     {
       "managerID": "1000931126237536256",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "name": "Kpop Travis Hunter",
       "location": "LA", // (optional)
       "bio": "Yo",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -127,6 +130,7 @@ export const managers = [
     },
     {
       "managerID": "734866033487298560",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "name": "Lil's Team",
       "location": "MA", // (optional)
       "bio": "Howdy",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -147,6 +151,7 @@ export const managers = [
     },
     {
       "managerID": "861798950963908608",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "name": "Mad Dogs",
       "location": "MA & CA", // (optional)
       "bio": "Molly's Dad",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -188,6 +193,7 @@ export const managers = [
     },
     {
       "managerID": "1116233445342052352",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "name": "Best of Burden",
       "location": "IL", // (optional)
       "bio": "Hi",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -208,6 +214,7 @@ export const managers = [
     },
     {
       "managerID": "1131060783305101312",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "name": "Ja'marro Never Dies",
       "location": "MA", // (optional)
       "bio": "Nala's Dad",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
@@ -248,6 +255,7 @@ export const managers = [
     },
     {
       "managerID": "865272891120406528",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "name": "repeaters",
       "location": "DC", // (optional)
       "bio": "Pippin's Dad",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
