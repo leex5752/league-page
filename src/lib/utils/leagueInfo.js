@@ -7,9 +7,9 @@ export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VI
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>Welcome to the Fantasy League.</p>
-  <p>Friends and Family.</p>
-  <p>Don't be mean.</p>
+  <p>Welcome to the Fantasy League</p>
+  <p>Friends and Family</p>
+  <p>Don't be mean</p>
   
 `;
 
