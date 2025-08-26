@@ -58,12 +58,12 @@
         for(const rosterPower of rosterPowers) {
             rosterPower.powerScore = round(rosterPower.powerScore/max * 100);
         }
-< br / >
 
         const powerGraph = {
             stats: rosterPowers,
             x: "Manager",
-            y: "Power Ranking",
+            < br / >
+			y: "Power Ranking",
             stat: "",
             header: "Rest of Season Power Rankings",
             field: "powerScore",
