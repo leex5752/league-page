@@ -39,7 +39,7 @@
         display: block;
         position: relative;
         width: 100%;
-        height: ;
+        height: 0%;
     }
 
     h6 {
