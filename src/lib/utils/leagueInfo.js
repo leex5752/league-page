@@ -24,13 +24,13 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 
 export const managers = [
     {
-      "roster": "1131049579392335872",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1131049579392335872",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Your Name",
       "tookOver": "2024", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MA & CA", // (optional)
       "bio": "LFG",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2024, // (optional) when did the manager start playing fantasy football
+      "fantasyStart": "2024", // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "Celtics", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
@@ -46,7 +46,7 @@ export const managers = [
       "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "roster": "1262710121897668608",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1262710121897668608",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Your Name",
       "tookOver": "2025", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "KOREA", // (optional)
@@ -56,7 +56,7 @@ export const managers = [
       "favoriteTeam": "ne", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
-        name: "Rival", // Can be anything (usually your rival's name)
+        name: "Lil's Team", // Can be anything (usually your rival's name)
         link: 6, // manager array number within this array, or null to link back to all managers page
         image: "/managers/rival.jpg", // either a specific manager photo or '/managers/everyone.png' or '/managers/question.png'
       },
@@ -68,7 +68,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "roster": "1000936187311267840",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
+      "managerID": "1000936187311267840",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Your Name",
       "tookOver": "2022", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "IL", // (optional)
