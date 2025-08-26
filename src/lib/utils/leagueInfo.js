@@ -30,7 +30,7 @@ export const managers = [
       "bio": "Twins doing twins stuff",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": "2024", // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "la", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "lar", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "KPop Travis Hunters", // Can be anything (usually your rival's name)
@@ -116,7 +116,7 @@ export const managers = [
       "bio": "Yo",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": "2010", // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "la", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "lar", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Twin It to Win It 👯‍♀️", // Can be anything (usually your rival's name)
@@ -216,7 +216,7 @@ export const managers = [
       "preferredContact": "Text", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": "71131060783305101312",  // ID of the roster that the manager manages (look at the order of the power rankings graph
+      "managerID": "1131060783305101312",  // ID of the roster that the manager manages (look at the order of the power rankings graph
       "tookOver": "2024", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MA", // (optional)
       "bio": "Nala's Dad",
@@ -264,7 +264,7 @@ export const managers = [
       "bio": "Pippin's Dad",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": "2020", // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "dc", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "was", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "Osdoc", // Can be anything (usually your rival's name)
