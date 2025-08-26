@@ -106,6 +106,8 @@
         {/each}
 	</div>
 </div>
+
+
 {#if graphs.length > 1}
     <div class="buttonHolderG">
         <Group variant="outlined">
