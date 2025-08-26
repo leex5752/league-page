@@ -32,7 +32,16 @@
         margin: 0 auto;
         max-width: 950px;
         box-shadow: 0px 3px 3px -2px var(--boxShadowOne), 0px 3px 4px 0px var(--boxShadowTwo), 0px 1px 8px 0px var(--boxShadowThree);
-    }
++  display: block;
++  clear: both;      /* ensures we drop below any floated content above */
++  gap: 0;           /* explicit; add margin if you want spacing */    
+}
++ .chartWrapper :global(svg),
++ .chartWrapper :global(canvas) {
++   display: block;  /* critical: avoid inline overlap */
++   max-width: 100%;
++   height: auto;
++}
 
     .barChart {
         display: block;
