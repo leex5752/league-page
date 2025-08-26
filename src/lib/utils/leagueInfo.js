@@ -25,13 +25,12 @@ https://github.com/nmelhado/league-page/blob/master/TRAINING_WHEELS.md#ii-adding
 export const managers = [
     {
       "managerID": "1131049579392335872",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Your Name",
       "tookOver": "2024", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "MA & CA", // (optional)
-      "bio": "LFG",
+      "bio": "Twins doing twins stuff",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": "2024", // (optional) when did the manager start playing fantasy football
-      "favoriteTeam": "Celtics", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
+      "favoriteTeam": "la", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
         name: "EdibleDino", // Can be anything (usually your rival's name)
@@ -41,13 +40,12 @@ export const managers = [
       "favoritePlayer": "4666", // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "WR", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Your fantasy team's philosophy",
+      "philosophy": "Let's fucking go",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Carrier Pigeon", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
     {
-      "managerID": "1262710121897668608",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Your Name",
+      "managerID": "1262710121897668608",  // ID of the roster that the manager manages (look at the order of the power rankings graph
       "tookOver": "2025", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "KOREA", // (optional)
       "bio": "Started from the bottom now I'm here",
@@ -69,10 +67,9 @@ export const managers = [
     },
     {
       "managerID": "1000936187311267840",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
-      "name": "Your Name",
       "tookOver": "2022", // (optional) used if a manager took over a team, delete this line or change to null otherwise
       "location": "IL", // (optional)
-      "bio": "Wa-DAAAM",
+      "bio": "Chicago boy",
       "photo": "/managers/name.jpg", // square ratio recommended (no larger than 500x500)
       "fantasyStart": "2022", // (optional) when did the manager start playing fantasy football
       "favoriteTeam": "chi", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
@@ -85,7 +82,7 @@ export const managers = [
       "favoritePlayer": "3294", // (optional) this corresponds to the Sleeper player ID (https://api.sleeper.app/v1/players/nfl)
       "valuePosition": "QB", // (optional) Favorite position (QB, WR, RB, TE, etc.)
       "rookieOrVets": "Rookies", // (optional) 'Rookies' or 'Vets' (anything else and you will need to add a new png to /static/ similar to the 'Rookies.png' and 'Vets.png' currently in there)
-      "philosophy": "Broke Dak Mountain",
+      "philosophy": "WA-DAAM",
       "tradingScale": 10, // 1 - 10
       "preferredContact": "Email", // 'Text', 'WhatsApp', 'Sleeper', 'Email', 'Phone', 'Discord', and 'Carrier Pigeon' are currently supplied in the template
     },
