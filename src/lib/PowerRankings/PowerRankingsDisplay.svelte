@@ -61,7 +61,7 @@
 
         const powerGraph = {
             stats: rosterPowers,
-            x: "Manager",
+            x: "",
 			y: "Power Ranking",
             stat: "",
             header: "Rest of Season Power Rankings",
