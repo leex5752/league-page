@@ -39,7 +39,7 @@
         display: block;
         position: relative;
         width: 100%;
-        height: 0;
+        height: ;
     }
 
     h6 {
@@ -106,8 +106,6 @@
         {/each}
 	</div>
 </div>
-
-
 {#if graphs.length > 1}
     <div class="buttonHolderG">
         <Group variant="outlined">
